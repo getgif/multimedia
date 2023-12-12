@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <div class="wrap">
+      <div class="intro_bg">
+        <div class="header">
+          <div class="searchArea">
+            <form>
+              <input type="search" placeholder="search">
+              <span>검색</span>
+            </form>
+          </div>
+          <ul class="nav">
+            <li><a href="index.html">HOME</a></li>
+            <li><a href="soccerfield.html">soccerfield</a></li>
+            <li><a href="squad.html">squad</a></li>
+            <li><a href="introduce.html">introduce</a></li>
+          </ul>
+        </div>
+        <div class="intro_text">
+            <h1>ChelseaFC</h1>
+            <h4 class="contents1"></h4>
+          </div>
+        </div>
+        </div>
+        <div class="main_text1" id = "link_header">
+            <h1>Squad</h1>
+            <div class="contents1">23/24 시즌 첼시의 스쿼드</div>
+            <div class="service">
+                <div class="photo2">
+                    <img src="./image/squad1.PNG">
+                    <img src="./image/squad2.PNG">
+                  </div>
+              </div>
+            </div>
+          </div>
